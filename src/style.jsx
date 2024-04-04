@@ -48,6 +48,8 @@ export const Container = styled.section`
 display: flex;
 justify-content: space-evenly;
 align-items: center;
+height: 80vh;
+
 
 @media (min-width: 320px) and (max-width: 768px){
     height: 100vh;
@@ -62,6 +64,7 @@ background-color: #ffd452;
 border: solid #ff2e5f;
 border-radius: 10%;
 width: 25vw;
+height: 50vh;
 display: flex;
 flex-direction: column;
 justify-content: space-evenly;
