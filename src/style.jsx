@@ -75,11 +75,11 @@ background-position: center;
 background-size: 20%; */
 
 h2{
-    font-size: 2rem;
+    font-size: 2.2rem;
 }
 
 h3{
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     color: #140d1a;
 }
 
