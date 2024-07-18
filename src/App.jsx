@@ -36,6 +36,7 @@ export default function App() {
          
       {data.map((item) => (
           <S.Cadastro>
+            
           {/* <h3>{item.id}</h3> */}
           <img src={item.foto} alt="" />
           <h2>{item.nome} </h2>
